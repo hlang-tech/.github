@@ -1,4 +1,10 @@
-<a href="https://github.com/hlang-tech/hlang"><img src="https://raw.githubusercontent.com/hlang-tech/hlang/main/media/brand/readme-banner.svg" alt="hlang — flow-based programming on live streams" width="100%"></a>
+<a href="https://github.com/hlang-tech/hlang"><img src="https://raw.githubusercontent.com/hlang-tech/hlang/main/media/brand/readme-banner.svg" alt="hlang — A FBP-Inspired language for building universal applications." width="100%"></a>
+
+<p align="center">
+  <b>A FBP-Inspired language for building universal applications.</b>
+  <br />
+  <em>Hlang aims to make programming easier, faster and more comfortable. It avoids coding, repetition and frustration.</em>
+</p>
 
 [Source](https://github.com/hlang-tech/hlang) · [npm](https://www.npmjs.com/org/hlang-org) · [Documentation](https://github.com/hlang-tech/hlang#readme) · [简体中文](https://github.com/hlang-tech/hlang/blob/main/README.zh-CN.md) · [Ask DeepWiki](https://deepwiki.com/hlang-tech/hlang) · [Brand](https://github.com/hlang-tech/hlang/tree/main/media/brand)
 
