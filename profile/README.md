@@ -6,7 +6,7 @@
   <em>Hlang aims to make programming easier, faster and more comfortable. It avoids coding, repetition and frustration.</em>
 </p>
 
-[Source](https://github.com/hlang-tech/hlang) · [npm](https://www.npmjs.com/org/hlang-org) · [Documentation](https://github.com/hlang-tech/hlang#readme) · [简体中文](https://github.com/hlang-tech/hlang/blob/main/README.zh-CN.md) · [Ask DeepWiki](https://deepwiki.com/hlang-tech/hlang) · [Brand](https://github.com/hlang-tech/hlang/tree/main/media/brand)
+[Source](https://github.com/hlang-tech/hlang) · [npm](https://www.npmjs.com/org/hlang-org) · [Website](https://hlang.tech) · [Documentation](https://hlang.tech/docs) · [简体中文](https://github.com/hlang-tech/hlang/blob/main/README.zh-CN.md) · [Brand](https://github.com/hlang-tech/hlang/tree/main/media/brand)
 
 hlang is an open-source flow-based programming language for TypeScript and JavaScript. A program is a graph of Readable, Transform, and Writable nodes. Nodes exchange data through named ports, and every port is an RxJS stream, so connections stay live while data flows.
 
@@ -37,8 +37,8 @@ Every package is also published under the `@hlang-tech` scope with identical bui
       <p><b>AStack</b><br><sub>AI agents and workflows</sub></p>
     </td>
     <td width="33%" valign="top">
-      <a href="https://github.com/hlang-tech/hlang#lumen"><img src="https://raw.githubusercontent.com/hlang-tech/hlang/main/media/showcase/lumen.png" alt="The Lumen editor" width="100%"></a>
-      <p><b>Lumen</b><br><sub>Node editor stack · in development</sub></p>
+      <a href="https://github.com/hlang-tech/hlang/tree/main/examples/editor-react-playground"><img src="https://raw.githubusercontent.com/hlang-tech/hlang/main/media/showcase/prism.png" alt="Prism, a node-based tool for image and video creators, built on Lumen" width="100%"></a>
+      <p><b>Prism</b><br><sub>Image and video creation · in development</sub></p>
     </td>
   </tr>
 </table>
